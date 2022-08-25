@@ -1,0 +1,135 @@
+.logo img{
+    margin-top: 30px;
+    margin-left: 90px;
+    width: 150px;
+}
+.list{
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+}
+.list-item{
+    margin: 60px;
+    margin-top: -50px;
+}
+.left-image img{
+    height: 100vh;
+    height: 100%;
+    width: 35vw;
+    margin-top: -239px;
+    position: absolute;
+    z-index: -1;
+    margin-right: 20px;
+    object-fit: cover;
+    height: 100%;
+    object-fit: cover;
+    left: 0;
+ 
+    
+
+}
+
+.img img{
+    height: 100px;
+}
+.heading h1{
+    text-align: center;
+    font-size: 130px;
+    margin-left: 270px;
+    color: transparent;
+    color: #333333;
+    color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    margin-top: -10px;
+    
+}
+.heading div h1{
+    margin-top: -140px;
+    color: black;
+    margin-left: 550px;
+}
+.heading p{
+    text-align: center;
+    margin-left: 1050px;
+    margin-top: -190px;
+    font-size: 28px;
+    color: gray;
+}
+
+.btn-wrapper button{
+   margin-left: 1150px;
+   margin-top: 20px;
+   background-color: #333333;
+   color: #ffffff;
+   border: none;
+   padding-top:18px;
+   padding-bottom:18px;
+   padding-left: 60px ;
+   padding-right: 60px;
+   cursor: pointer;
+}
+.social-icons{
+  display: flex;
+  flex-direction: column;
+  float: right;
+  margin-top: -350px;
+  gap: 45px;
+  
+}
+
+.bottom{
+    position: absolute;
+    margin-left: 700px;
+}
+.bottom ul li{
+    font-size: 20px;
+    list-style-type: none;
+    color: #868686;
+    display: flex;
+    align-items: center;
+    margin-top: -20px;
+}
+.active-item p{
+    color: black;
+}
+.active-item .dot {
+    background-color: #333333;
+ }
+.bottom ul li span {
+    background-color: #868686;
+    width: 15px;
+    height: 15px;
+    border-radius: 50px;
+    display: inline-block;
+    vertical-align: center;
+    margin-right: 20px;
+ }
+.bottom .line-dot {
+    height: 45%;
+    width: 1.55px;
+    background-color: #868686;
+    position: absolute;
+    left: 7px;
+    top: 20px;
+    margin-top: 15px;
+    margin-left: 40px;
+ }
+.bottom-quote p{
+    margin-left: 280px;
+    margin-top: -180px;
+    font-size: 20px;
+}
+.img img{
+    margin-left: 280px;
+    height: 230px;
+    width: 350px;
+}
+.arrow {
+    position: absolute;
+    top: 120px;
+    right: -90px;
+  }
+  .arrow > img {
+    width: 30px;
+  }
